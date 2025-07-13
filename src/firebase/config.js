@@ -4,14 +4,7 @@ import { getFirestore, connectFirestoreEmulator } from 'firebase/firestore';
 // Your Firebase configuration
 // Replace these with your actual Firebase project config
 const firebaseConfig = {
-    apiKey: "AIzaSyArKgXgYiTPbVAtHVTAB9QvmF2q9FWkqkU",
-    authDomain: "mall-simulator-1769b.firebaseapp.com",
-    databaseURL: "https://mall-simulator-1769b-default-rtdb.firebaseio.com",
-    projectId: "mall-simulator-1769b",
-    storageBucket: "mall-simulator-1769b.firebasestorage.app",
-    messagingSenderId: "371688857921",
-    appId: "1:371688857921:web:123acfe3474386374381c0",
-    measurementId: "G-W0068JRQMV"
+    paste your firebase config here like api key and all
 };
 
 // Initialize Firebase
